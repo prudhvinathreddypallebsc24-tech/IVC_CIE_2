@@ -1,0 +1,5 @@
+print("Hello")
+print("My name is Praneetha")
+print("I am from class BSc CSE")
+print("Section A")
+print("USN: YOUR_USN")
