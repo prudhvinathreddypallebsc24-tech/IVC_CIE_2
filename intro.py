@@ -1,5 +1,5 @@
 print("Hello")
-print("My name is Praneetha")
+print("My name is Prudhvi")
 print("I am from class BSc CSE")
-print("Section A")
-print("USN: YOUR_USN")
+print("Section B")
+print("USN: 1RUA24SCS0082")
